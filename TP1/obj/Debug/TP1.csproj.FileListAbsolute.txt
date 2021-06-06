@@ -1,0 +1,10 @@
+A:\user\Ingenieurs\ENIT_Info_2020-2021_2eme\2020-2021-S2\C#.NET\TP1\TP1\obj\Debug\TP1.csprojAssemblyReference.cache
+A:\user\Ingenieurs\ENIT_Info_2020-2021_2eme\2020-2021-S2\C#.NET\TP1\TP1\obj\Debug\TP1.csproj.CoreCompileInputs.cache
+A:\user\Ingenieurs\ENIT_Info_2020-2021_2eme\2020-2021-S2\C#.NET\TP1\TP1\bin\Debug\TP1.exe.config
+A:\user\Ingenieurs\ENIT_Info_2020-2021_2eme\2020-2021-S2\C#.NET\TP1\TP1\bin\Debug\TP1.exe
+A:\user\Ingenieurs\ENIT_Info_2020-2021_2eme\2020-2021-S2\C#.NET\TP1\TP1\bin\Debug\TP1.pdb
+A:\user\Ingenieurs\ENIT_Info_2020-2021_2eme\2020-2021-S2\C#.NET\TP1\TP1\obj\Debug\TP1.exe
+A:\user\Ingenieurs\ENIT_Info_2020-2021_2eme\2020-2021-S2\C#.NET\TP1\TP1\obj\Debug\TP1.pdb
+A:\user\Ingenieurs\ENIT_Info_2020-2021_2eme\2020-2021-S2\C#.NET\TP1\TP1\obj\Debug\TP1.CargaisonUI.resources
+A:\user\Ingenieurs\ENIT_Info_2020-2021_2eme\2020-2021-S2\C#.NET\TP1\TP1\obj\Debug\TP1.csproj.GenerateResource.cache
+A:\user\Ingenieurs\ENIT_Info_2020-2021_2eme\2020-2021-S2\C#.NET\TP1\TP1\obj\Debug\TP1.Properties.Resources.resources
